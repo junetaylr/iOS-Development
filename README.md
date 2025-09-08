@@ -1,0 +1,1 @@
+This project was a prework assessment for a coding program, CodePath. I will be enrolled in their iOS development course this fall. Looking forward to developing my skills and craft and meeting other developers. 
